@@ -9,7 +9,7 @@
 [![Blog](https://img.shields.io/badge/Mi%20blog-023047?style=for-the-badge&logo=wordpress&logoColor=ffb703)](https://blogisabellanottaro.blog/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-023047?style=for-the-badge&logo=linkedin&logoColor=ffb703)](https://www.linkedin.com/in/isabellanottarosanchez)
 [![Gmail](https://img.shields.io/badge/Correo-023047?style=for-the-badge&logo=gmail&logoColor=ffb703)](mailto:isabellanottaro@gmail.com)
-[![TikTok](https://img.shields.io/badge/TikTok-023047?style=for-the-badge&logo=tiktok&logoColor=ffb703)](https://www.tiktok.com/@TU_USUARIO_TIKTOK)
+[![TikTok](https://img.shields.io/badge/TikTok-023047?style=for-the-badge&logo=tiktok&logoColor=ffb703)](https://www.tiktok.com/@SrtaJeans)
 
 </div>
 
@@ -83,23 +83,17 @@ public class Isabella {
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <a href="https://github.com/nottaroisa/PGridNottaroIsabella">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nottaroisa&repo=PGridNottaroIsabella&bg_color=023047&title_color=ffb703&text_color=ffffff&icon_color=fb8500&border_color=219ebc" alt="PGridNottaroIsabella" />
 </a>
 <br/><sub>🌐 Moodboard personal con CSS Grid, responsive</sub>
 </td>
-<td align="center" width="33%">
-<a href="https://github.com/nottaroisa/RecetasDam1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nottaroisa&repo=RecetasDam1&bg_color=023047&title_color=ffb703&text_color=ffffff&icon_color=fb8500&border_color=219ebc" alt="RecetasDam1" />
+<td align="center" width="50%">
+<a href="https://github.com/nottaroisa/EntregaIDE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nottaroisa&repo=EntregaIDE&bg_color=023047&title_color=ffb703&text_color=ffffff&icon_color=fb8500&border_color=219ebc" alt="EntregaIDE" />
 </a>
-<br/><sub>☕ Recetario en Java: herencia, interfaces, excepciones y ficheros</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/nottaroisa/RpgDam1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nottaroisa&repo=RpgDam1&bg_color=023047&title_color=ffb703&text_color=ffffff&icon_color=fb8500&border_color=219ebc" alt="RpgDam1" />
-</a>
-<br/><sub>⚔️ Sistema RPG en Java con herencia y progresión</sub>
+<br/><sub>🧩 Entornos de Desarrollo: Java, diagrama de clases UML y Git</sub>
 </td>
 </tr>
 </table>
