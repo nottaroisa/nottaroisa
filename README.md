@@ -38,15 +38,63 @@ public class Isabella {
 
 ## 🛠️ Stack y herramientas
 
+**Lenguajes**<br/>
 ![Java](https://img.shields.io/badge/Java-023047?style=for-the-badge&logo=openjdk&logoColor=ffb703)
+![Python](https://img.shields.io/badge/Python-023047?style=for-the-badge&logo=python&logoColor=ffb703)
+![TypeScript](https://img.shields.io/badge/TypeScript-023047?style=for-the-badge&logo=typescript&logoColor=ffb703)
+![SQL](https://img.shields.io/badge/SQL-023047?style=for-the-badge&logo=postgresql&logoColor=ffb703)
+
+**Datos y persistencia**<br/>
 ![MySQL](https://img.shields.io/badge/MySQL-023047?style=for-the-badge&logo=mysql&logoColor=ffb703)
+![MongoDB](https://img.shields.io/badge/MongoDB-023047?style=for-the-badge&logo=mongodb&logoColor=ffb703)
+![JDBC](https://img.shields.io/badge/JDBC-023047?style=for-the-badge&logo=openjdk&logoColor=ffb703)
+![Hibernate](https://img.shields.io/badge/Hibernate-023047?style=for-the-badge&logo=hibernate&logoColor=ffb703)
+![JPA](https://img.shields.io/badge/JPA-023047?style=for-the-badge&logo=jakartaee&logoColor=ffb703)
+
+**Web**<br/>
 ![HTML5](https://img.shields.io/badge/HTML5-023047?style=for-the-badge&logo=html5&logoColor=ffb703)
 ![CSS3](https://img.shields.io/badge/CSS3-023047?style=for-the-badge&logo=css3&logoColor=ffb703)
+![Next.js](https://img.shields.io/badge/Next.js-023047?style=for-the-badge&logo=nextdotjs&logoColor=ffb703)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-023047?style=for-the-badge&logo=tailwindcss&logoColor=ffb703)
+![XML](https://img.shields.io/badge/XML-023047?style=for-the-badge&logo=w3c&logoColor=ffb703)
 ![JSON](https://img.shields.io/badge/JSON-023047?style=for-the-badge&logo=json&logoColor=ffb703)
+![Canvas 2D](https://img.shields.io/badge/Canvas%202D-023047?style=for-the-badge&logo=html5&logoColor=ffb703)
 ![WordPress](https://img.shields.io/badge/WordPress-023047?style=for-the-badge&logo=wordpress&logoColor=ffb703)
+
+**Móvil**<br/>
+![React Native](https://img.shields.io/badge/React%20Native-023047?style=for-the-badge&logo=react&logoColor=ffb703)
+![Android](https://img.shields.io/badge/Android-023047?style=for-the-badge&logo=android&logoColor=ffb703)
+![iOS](https://img.shields.io/badge/iOS-023047?style=for-the-badge&logo=apple&logoColor=ffb703)
+
+**Gestión empresarial**<br/>
+![Odoo](https://img.shields.io/badge/Odoo-023047?style=for-the-badge&logo=odoo&logoColor=ffb703)
+![ERP](https://img.shields.io/badge/ERP-023047?style=for-the-badge&logoColor=ffb703)
+![CRM](https://img.shields.io/badge/CRM-023047?style=for-the-badge&logoColor=ffb703)
+
+**IDEs y entorno**<br/>
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-023047?style=for-the-badge&logo=intellijidea&logoColor=ffb703)
+![Eclipse](https://img.shields.io/badge/Eclipse-023047?style=for-the-badge&logo=eclipseide&logoColor=ffb703)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-023047?style=for-the-badge&logo=androidstudio&logoColor=ffb703)
+![VS Code](https://img.shields.io/badge/VS%20Code-023047?style=for-the-badge&logo=visualstudiocode&logoColor=ffb703)
+![Windows](https://img.shields.io/badge/Windows-023047?style=for-the-badge&logo=windows11&logoColor=ffb703)
+![Linux](https://img.shields.io/badge/Linux-023047?style=for-the-badge&logo=linux&logoColor=ffb703)
+
+**Calidad, control de versiones y documentación**<br/>
 ![Git](https://img.shields.io/badge/Git-023047?style=for-the-badge&logo=git&logoColor=ffb703)
 ![GitHub](https://img.shields.io/badge/GitHub-023047?style=for-the-badge&logo=github&logoColor=ffb703)
-![Linux](https://img.shields.io/badge/Linux-023047?style=for-the-badge&logo=linux&logoColor=ffb703)
+![JUnit](https://img.shields.io/badge/JUnit-023047?style=for-the-badge&logo=junit5&logoColor=ffb703)
+![Playwright](https://img.shields.io/badge/Playwright-023047?style=for-the-badge&logo=playwright&logoColor=ffb703)
+![UML](https://img.shields.io/badge/UML-023047?style=for-the-badge&logoColor=ffb703)
+![Javadoc](https://img.shields.io/badge/Javadoc-023047?style=for-the-badge&logo=openjdk&logoColor=ffb703)
+
+**Conceptos**<br/>
+![POO](https://img.shields.io/badge/POO-023047?style=for-the-badge&logoColor=ffb703)
+![SOLID](https://img.shields.io/badge/SOLID-023047?style=for-the-badge&logoColor=ffb703)
+![APIs](https://img.shields.io/badge/APIs-023047?style=for-the-badge&logoColor=ffb703)
+![TCP](https://img.shields.io/badge/TCP-023047?style=for-the-badge&logoColor=ffb703)
+![UDP](https://img.shields.io/badge/UDP-023047?style=for-the-badge&logoColor=ffb703)
+![Flexbox](https://img.shields.io/badge/Flexbox-023047?style=for-the-badge&logo=css3&logoColor=ffb703)
+![Grid](https://img.shields.io/badge/Grid-023047?style=for-the-badge&logo=css3&logoColor=ffb703)
 
 ---
 
@@ -58,10 +106,13 @@ public class Isabella {
 
 ### 💻 Lo que programo
 
-- **Java:** POO (herencia, polimorfismo, interfaces), colecciones, excepciones, ficheros, multihilo y sockets
-- **Datos:** SQL (joins, subconsultas), modelo E-R, normalización, ORM y NoSQL
-- **Web:** HTML5, CSS3, XML, JSON y GUI
-- **Entorno:** Git, UML, Windows y Linux
+- **Java y Python:** POO y principios SOLID (herencia, polimorfismo, interfaces), colecciones, excepciones, ficheros, multihilo y sockets (TCP/UDP)
+- **Datos:** SQL (joins, subconsultas), MySQL con JDBC, ORM con Hibernate y JPA, modelo E-R, normalización y NoSQL con MongoDB
+- **Web:** HTML5, CSS3 (Flexbox y Grid), TypeScript, Next.js, Tailwind CSS, Canvas 2D, XML, JSON, APIs y GUI
+- **Móvil:** React Native, Android e iOS
+- **Gestión empresarial:** Odoo (ERP y CRM)
+- **Calidad y documentación:** JUnit, Playwright, Javadoc y UML
+- **Entorno:** IntelliJ, Eclipse, Android Studio, VS Code, Git, GitHub, Windows y Linux
 
 </td>
 <td width="50%" valign="top">
@@ -84,13 +135,13 @@ public class Isabella {
 <table>
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/nottaroisa/Moodboard">
+<a href="https://github.com/nottaroisa/PGridNottaroIsabella">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nottaroisa&repo=PGridNottaroIsabella&bg_color=023047&title_color=ffb703&text_color=ffffff&icon_color=fb8500&border_color=219ebc" alt="PGridNottaroIsabella" />
 </a>
 <br/><sub>🌐 Moodboard personal con CSS Grid, responsive</sub>
 </td>
 <td align="center" width="50%">
-<a href="https://github.com/nottaroisa/FoodDeliveryJava">
+<a href="https://github.com/nottaroisa/EntregaIDE">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nottaroisa&repo=EntregaIDE&bg_color=023047&title_color=ffb703&text_color=ffffff&icon_color=fb8500&border_color=219ebc" alt="EntregaIDE" />
 </a>
 <br/><sub>🧩 Entornos de Desarrollo: Java, diagrama de clases UML y Git</sub>
