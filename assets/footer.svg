@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120" role="img" aria-label="Disponible para prácticas (FCT) de backend o full stack">
+  <defs>
+    <style>
+      .mono { font-family: 'Space Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    </style>
+    <clipPath id="marco"><rect width="900" height="120" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#marco)">
+    <rect width="900" height="120" fill="#0d1347"/>
+    <text x="450" y="30" class="mono" font-size="14" letter-spacing="3" fill="#2c3680" text-anchor="middle" xml:space="preserve">·  .  ;=*##*+====+*##*=;  .  ·   .  ;=*##*+====+*##*=;  .  ·</text>
+    <circle cx="232" cy="64" r="5" fill="#9aa4ff">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="248" y="70" class="mono" font-size="16" font-weight="700" fill="#f2f1ea">Disponible para prácticas (FCT) · backend o full stack</text>
+    <text x="450" y="102" class="mono" font-size="14" letter-spacing="3" fill="#2c3680" text-anchor="middle" xml:space="preserve">·  .  ;=*##*+====+*##*=;  .  ·   .  ;=*##*+====+*##*=;  .  ·</text>
+  </g>
+</svg>
