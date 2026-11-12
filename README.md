@@ -19,7 +19,7 @@
 
 ## Sobre mí
 
-Estudio 2º de DAM y me oriento al desarrollo full stack, con base en Java, MySQL, HTML y CSS. Soy creadora de contenido tech desde 2020: he aprendido a organizarme con autonomía, a responsabilizarme del resultado final y a mejorar con cada entrega.
+Estudio 2º de DAM y me oriento al desarrollo full stack, con base en Java, MySQL, HTML y CSS. Me especialicé profesionalmente cómo creadora de contenido tech a partir de 2020 (aunque llevo haciendo vídeos desde el 2013). He aprendido a organizarme con autonomía, a responsabilizarme del resultado final y a mejorar con cada entrega.
 
 |  |  |
 |:--|:--|
